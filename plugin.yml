@@ -1,0 +1,7 @@
+name: CortexLobby
+version: 1.0-SNAPSHOT
+main: me.kodysimpson.cortexlobby.CortexLobby
+api-version: 1.13
+authors: [Clumsy]
+description: A manager for your lobby server
+website: https://youtube.com/c/IlluminatiProductions

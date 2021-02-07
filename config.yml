@@ -1,0 +1,12 @@
+lobby-world: 'world'
+
+#enable motd message
+motd: true
+#add and remove lines as needed
+motd-message:
+  - '&d&6-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-'
+  - ''
+  - '&aWelcome to the &c&lYour Server'
+  - '&4Subscribe: &9https://youtube.com/c/YourServer'
+  - ''
+  - '&d&6-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-'
